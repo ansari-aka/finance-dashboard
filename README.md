@@ -41,10 +41,7 @@ Can create, update, delete records and manage users.
 1. Clone repository
 2. Install dependencies:
    npm install
-3. Create `.env` file:
-   PORT=5000
-   MONGO_URI=mongodb://127.0.0.1:27017/finance_dashboard
-   JWT_SECRET=supersecretkey
+3. Create `.env` file
 4. Start server:
    npm run dev
 
